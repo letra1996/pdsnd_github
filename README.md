@@ -7,7 +7,7 @@
 Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+I used the R language to explore data related to bike-sharing systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 Include the files used
